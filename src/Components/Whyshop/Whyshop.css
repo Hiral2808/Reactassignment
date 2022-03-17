@@ -1,0 +1,31 @@
+.whyshop{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.cardsfast{
+    background-color: #002c3e;
+    margin-left: 100px;
+}
+
+ .cards{
+    height: 300px;
+    background-color: #002c3e;
+    color: white;
+    margin-left: 100px;
+}
+ .fastdeltext{
+    margin-top: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 100px;
+    font-family: 'Montserrat', sans-serif;
+} 
+ .variations{
+    margin-left: 100px;
+    font-size: 20px; 
+    font-family: 'Montserrat', sans-serif;
+}   

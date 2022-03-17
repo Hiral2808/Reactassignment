@@ -1,0 +1,40 @@
+.bg{
+    background-color: #d4ced0;
+    justify-content: center;
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 30px;
+    height: 400px;
+   
+}
+
+input[type=text]{
+    border-radius: 50px;
+    border: 1px solid white;
+    width: 300px;
+    height: 40px;
+    padding-left: 10px;
+
+}
+input[type=text]:focus {
+    outline: none;
+    border: 1px solid white;
+    color: black;
+}
+.subscbtn{
+
+    background-color: #dc3545;   
+    border-radius: 50px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color:white
+}
+.subscbtn:hover{
+    background-color: #d4ced0;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}

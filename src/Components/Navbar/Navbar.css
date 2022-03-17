@@ -1,0 +1,11 @@
+.logo_left{
+    margin-left: 50px;
+}
+.navbar_font{
+    font-size: 20px;
+    margin-left: 70px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}

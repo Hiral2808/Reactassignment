@@ -1,0 +1,46 @@
+.ours{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.ps{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.addtocart{
+    background-color: #dc3545;
+    height: 50px;
+    width: 150px;
+    border: none;
+    text-align: center;
+    border-radius: 30px;
+    color:white
+    
+
+}
+.addtocart:hover{
+    background-color: white;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}
+.viewallProd{
+
+    background-color: #dc3545;   
+    margin-left: 500px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color:white
+}
+.viewallProd:hover{
+    background-color: white;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}
